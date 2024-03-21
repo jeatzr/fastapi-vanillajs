@@ -1,4 +1,4 @@
-# Users API created in FastAPI and simple form in VanillaJS and Bootstrap to post new user
+## Users-API created in FastAPI and simple HTML form wich VanillaJS and Bootstrap to post a new user
 
 - This is a very simple example of a CRUD API to manage users in a fake DB (not database, not persistence, just in memory). It has been programmed in python with [FastAP](https://fastapi.tiangolo.com/) framework. In order to allow CORS from your prefered client, make sure that you add the origin in CORS configuration in `main.py` inside `backend-fastapi`
 
